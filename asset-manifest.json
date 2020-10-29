@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.6c07030f.chunk.css",
+    "main.js": "/my-app/static/js/main.129f6611.chunk.js",
+    "main.js.map": "/my-app/static/js/main.129f6611.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.9c42b238.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.9c42b238.js.map",
+    "static/js/2.cbfdc1f5.chunk.js": "/my-app/static/js/2.cbfdc1f5.chunk.js",
+    "static/js/2.cbfdc1f5.chunk.js.map": "/my-app/static/js/2.cbfdc1f5.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.6c07030f.chunk.css.map": "/my-app/static/css/main.6c07030f.chunk.css.map",
+    "static/js/2.cbfdc1f5.chunk.js.LICENSE.txt": "/my-app/static/js/2.cbfdc1f5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-app/static/media/joanna-kosinska-7ACuHoezUYk-unsplash.b5aee572.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c42b238.js",
+    "static/js/2.cbfdc1f5.chunk.js",
+    "static/css/main.6c07030f.chunk.css",
+    "static/js/main.129f6611.chunk.js"
+  ]
+}
